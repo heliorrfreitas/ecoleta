@@ -1,4 +1,4 @@
-#Ecoleta
+# Ecoleta
 
 Ecoleta is a platform which allows people to register recycle points and locate them. It is available in a Web version (for the points registration), and on mobile (for users to locate the points).
 
@@ -14,11 +14,11 @@ The Front end was developed using React.js.
 
 The mobile was developed using React Native.
 
-##Requirements
+## Requirements
 
 **Node.js** and **npm**
 
-##How to use
+## Testing
 
 1. Clone the repository
 2. Install the dependencies using the command:
